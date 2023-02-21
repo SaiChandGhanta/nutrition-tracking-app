@@ -1,0 +1,46 @@
+.parent-container {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 600px;
+    padding-left: 20px;
+}
+
+.top-input-section {
+    height: 200px;
+    margin-bottom: 20px;
+    width: 1300px;
+    left: 50px;
+}
+
+.top-input-form {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    align-items: center;
+    left: 20px;
+    top: 60px;
+}
+
+.select-choice {
+    width: 200px;
+    height: 56px;
+}
+
+.select-sub-choice {
+    width: 200px;
+    height: 56px;
+}
+
+.calorie-burn-label {
+    width: 100px;
+    height: 56px;
+}
+
+
+
+.bottom-table-section {
+    height: 500px;
+    width: 1300px;
+}

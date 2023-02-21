@@ -1,0 +1,93 @@
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.search-block {
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    z-index: 4;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    height: 50px;
+    padding: 2px;
+}
+
+.css-viou3o-MuiAutocomplete-root {
+    padding: 5px;
+}
+
+.food-suggestions-autocomplete {
+    padding: 5px;
+    height: 30px;
+}
+
+.search-food-button {
+    padding: 10px;
+    height: 100px;
+}
+
+
+.scroll-wrapper {
+    position: absolute;
+    display: flex;
+    top: 28%;
+}
+
+.suggestion-box {
+    position: relative;
+    height: 100px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 2px 2px #a0a09396;
+    padding: 10px;
+    margin: 10px;
+}
+
+.suggestion-box-internal {
+    display: flex;
+    flex-direction: row;
+}
+
+.suggestion-right {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.suggestion-image {
+    height: 80px;
+    width: 80px;
+}
+
+.suggestion-title {
+    padding-left: 7px;
+    font-size: 25px;
+    font-family:sans-serif;
+    font-weight: 500;
+    color: rgb(85, 150, 86);
+}
+
+.suggestion-category-label {
+    color: rgb(131, 128, 128);
+    margin-top: 7px;
+    font-size: 17px;
+
+}
+
+.suggestion-content-label {
+    color: rgb(131, 128, 128);
+    margin-top: -40px;
+    margin-left: 90px;
+}
+  
+  

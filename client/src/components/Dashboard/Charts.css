@@ -1,0 +1,31 @@
+
+.chartMenu {
+  width: 100vw;
+  height: 40px;
+  background: white;
+  color: rgb(255, 129, 26);
+ 
+}
+
+.chartMenu p {
+  display: fl;
+  padding: 10px;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.chartCard {
+  width: 100vw;
+  height: calc(150vh - 0px);
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.chartBox {
+  width: 700px;
+  padding: 20px;
+  border-radius: 20px;
+  border: solid 3px rgb(26, 118, 255);
+  background: white;
+}

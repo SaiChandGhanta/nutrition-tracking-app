@@ -1,0 +1,62 @@
+
+.register-intake-popup {
+    position: absolute;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: gray;
+    width: 50%;
+    top: 20%;
+    left: 10%;
+    width: 80%;
+}
+
+
+.intake-input-form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    row-gap: 40px;
+    padding: 30px;
+}
+
+.intake-input-block {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+
+.food-label {
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight: 550;
+    color: rgb(85, 150, 86);
+}
+
+
+.food-category {
+    color: rgb(131, 128, 128);
+    font-size: 15px;
+}
+
+.info-label {
+    color: rgb(14, 135, 137);
+}
+
+.info-value {
+    color: rgb(131, 128, 128);
+}
+
+.nutrition-breakdown {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+// .intake-button {
+//     width: 40%;
+//     display: flex;
+//     justify-content: center;
+// }
